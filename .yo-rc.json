@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jeidc.nimus_backend"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "Nimus",
+    "packageName": "com.jeidc.nimus_backend",
+    "packageFolder": "com/jeidc/nimus_backend",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGE2ODcxNzA2MThjZTIzMmYxMjliYTM0NmMwNDAzMGFkMWJhNDQwYjFhMzcwY2UzN2Q5MGQyMDZiNzYxMzVjNjczZWVjZTc1MTNiZjc4YzYzYmRmZmMwNjFhY2UxZTYxOTEyYzQxZDkxYTI4YjRiMzJhZmFiZmQ2YjA3NmJlZTI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1615060428555,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
