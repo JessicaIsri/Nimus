@@ -28,12 +28,17 @@ De acordo com a IBM a tecnologia movél é aquela capaz de acompanhar o usuario 
 A tecnologia móvel é caracterizada por dispositivos habilitados para o uso conjunto com a internet, como por exemplo: smartphones, tablets e relogios. [IBM https://www.ibm.com/topics/mobile-technology].
 
 
+
+
 A tecnologia movel atualmente se encontra em rapida acensão, sendo que o número  de úsuarios ja ultrassa os 3 bilhões.
 
 
 
 **2.2. Flutter**
 
-
 O Flutter é um kit de desenvolvimento de interface de usuário de código aberto desenvolvido pelo Google, que possui como vantagem apresentar um codigo unico para diversas plataformas (Android, IOS, Windowns, Linux e Web), tendo o Dart como principal linguagem de desenvolvimento.
-O Flutter possui uma porção de widgets que permite criar o layout dos aplicativos com uma maior facilidade em comparação com linguagem nativas.
+
+O Flutter possui uma porção de widgets que permite criar o layout dos aplicativos com uma maior facilidade em comparação com linguagem nativas, tendo sido projetado como um sistema extensível em camadas. Ele exise como uma série de bibliotecas independentes em que cada uma depende da camada subjacente. [https://flutter.dev/docs/resources/architectural-overview]
+
+![Architectural
+diagram](https://flutter.dev/images/arch-overview/archdiagram.png)
