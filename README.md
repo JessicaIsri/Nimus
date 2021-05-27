@@ -43,3 +43,10 @@ O Flutter possui uma porção de widgets que permite criar o layout dos aplicati
 ![Architectural
 diagram](https://flutter.dev/images/arch-overview/archdiagram.png)
                                        Figura 1. Arquitetura do funcionamento do Flutter
+                                       
+Geralmente os desenvolvedores integram com o Flutter por meio da estrutura Flutter, que fornece uma estrutura reativa  moderna escrita na lingragem Dart. Incluindo um rico conjunto de plataforma, layout e bibliotecas básicas, composta de uma seria de camadas tranbalhando de baixo para cima, teremos:
+
+ - Foundation: Classes vasicas de serviçoes de bloo de construção, como animações, pintura e gestos que oferecem abstrações comumente usadas sobre a base subjacente.
+ - Rendering Layer: Fornece um conjunto de abstrações para se trabalhar com layout, podendo construir uma árvoe de objetos renderizáveis, podendo ser manipulados dinamicamente.
+ - Widget Layer: É uma abstração de composição, onde cada objeto de renderização tem uma classe correspondente na camada de widgets.
+ - Material e Cupertino: São bibliotecas que oferecem conjuntos de controles que usam os primiteivos de composição da camada de widget para implementar o Material ou linguagens de design do iOS.
