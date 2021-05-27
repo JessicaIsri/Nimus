@@ -42,3 +42,4 @@ O Flutter possui uma porção de widgets que permite criar o layout dos aplicati
 
 ![Architectural
 diagram](https://flutter.dev/images/arch-overview/archdiagram.png)
+                                       Figura 1. Arquitetura do funcionamento do Flutter
