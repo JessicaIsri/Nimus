@@ -1,9 +1,39 @@
-# Nimus
----------------------------------
-PROBLEMA:
+Nimus: Aplicativo para facilitação do agendamento de consultas
 
-Com o crescente aumento do uso de aplicações que criam atalhos para utilização de serviços, sejam eles de delivery de comida, mercadorias, compras em geral, etc, começa se criar o fenômeno de abandono de costumes e tecnologias com maior nivel de obsolescência. Tais tecnologias como o uso de ligações e/ou agendamentos presenciais.
 
-Um setor que ainda possue uso de tais métodos para agendamento, é o setor de saúde focado na presença de convenios, onde possuimos em sua grande maioria aplicativos fornecidos por empresas provedoras de plano de saúde, entretanto os mesmos não possuem uma forma facilitada de agendamento, fazendo com que os usuário tenha que consultar e confiar no contato fornecido pela aplicação e então é feito o contato através do telefone com o consultório/profissional em questão.
+**Fatec Jessen Vidal - São José Dos Campos/SP**
+**Jéssica Isri Dias Cruz**
 
-Tendo isso em mente podemos afirmar que a existencia  de uma aplicação que pudesse centraliza e facilitar o agendamento através de uma plataforma que possa se integrar entre o paciente e o consultorio de uma maneira tão simples quanto pedir comida em um aplicatido de delivery
+**1. Introdução**
+
+
+Um plano de saúde é um seguro de proteção de pessoas contra o risco de terem de vir a arcar com despesas medidcas. 
+Planos de saúde suplementar surgiram no Brasil ha pouco mais de 60 anos e atualmente servem a cerca de 47,3 milhoes de pessoas (22,7% da população brasileira), segundo dados da Agência Nacional de Saúde Suplementar(ANS). 
+
+
+Atualmente em todo o país existem cerca de 754 operadoras em funcionamento, oferecendo tipos diversos de planos(familiares, individuais e empresariais), com as principais modalidades sendo: Autogestão cooperativa médica, filantropia, medicina de grupo e seguradora de saúde. 
+Contudo mais de 1,2 bilhão de consultas, exames e internações por ano.
+
+
+Com o intuito de auxiliar os usuarios de planos de saúde suplementar a as clinicas e profissionais que servem  aos planos supracitados a realizarem o agendamento e gerenciamento de consultas, alguns softwares foram desenvolvidos, tais como  o *MediLab*, que visa a facilitação e encurtamento da burocracia envolvida no momento de se marcar uma consulta médica.
+
+
+**2. Fundamentação Teórica**
+
+
+**2.1. Sistemas Mobile**
+
+
+De acordo com a IBM a tecnologia movél é aquela capaz de acompanhar o usuario independente do local onde o mesmo se encontra. Ela é constituida por dispositivos portateis de comunicaçao bidirecional, dispositivos de computação e a tecnologia de rede que as conectam.
+A tecnologia móvel é caracterizada por dispositivos habilitados para o uso conjunto com a internet, como por exemplo: smartphones, tablets e relogios. [IBM https://www.ibm.com/topics/mobile-technology].
+
+
+A tecnologia movel atualmente se encontra em rapida acensão, sendo que o número  de úsuarios ja ultrassa os 3 bilhões.
+
+
+
+**2.2. Flutter**
+
+
+O Flutter é um kit de desenvolvimento de interface de usuário de código aberto desenvolvido pelo Google, que possui como vantagem apresentar um codigo unico para diversas plataformas (Android, IOS, Windowns, Linux e Web), tendo o Dart como principal linguagem de desenvolvimento.
+O Flutter possui uma porção de widgets que permite criar o layout dos aplicativos com uma maior facilidade em comparação com linguagem nativas.
