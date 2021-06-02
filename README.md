@@ -44,5 +44,6 @@ Geralmente os desenvolvedores integram com o Flutter por meio da estrutura Flutt
  - Material e Cupertino: São bibliotecas que oferecem conjuntos de controles que usam os primitivos de composição da camada de widget para implementar o Material ou linguagens de design do iOS.
 
 ### **2.3. CloudSQL**
+O CloudSql é um serviço de banco de dados relacional totalmente gerenciado com suporte ao MySQL, PostgreSQL e SQL Server, tendo como vantagens a redução de custo de manutenção com banco de dados relacionais gerenciados na nuvem, confiabilidade, observabilidade do database, integração facilitada com os serviços do Google Cloud. [Google Cloud: https://cloud.google.com/sql]
 
 ### **2.4. App Engine**
